@@ -12,9 +12,9 @@ r : Reset parameters
 4 : color scheme 4
 delete, backspace : erase one vertex  
 
--mousePressed
+-mousePressed  
 left click : add vertices  
-right click : finish the shape
-click inside the circle : finish the shape (close shape)
+right click : finish the shape  
+click inside the circle : finish the shape (close shape)  
   
 ![](https://github.com/yuyurigi/gradationLine/blob/main/210421.png)
