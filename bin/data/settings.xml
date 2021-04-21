@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<color>
+	<lineWidth>30</lineWidth>
+	<wire>0</wire>
+	<gradation>1</gradation>
+	<butt>1</butt>
+	<round>0</round>
+	<square>0</square>
+	<miter>1</miter>
+	<bevel>0</bevel>
+	<round_>0</round_>
+	<background>245, 198, 200, 255</background>
+	<color1>237, 98, 134, 255</color1>
+	<color2>246, 209, 106, 255</color2>
+	<color3>242, 180, 107, 255</color3>
+</color>
