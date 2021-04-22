@@ -65,6 +65,7 @@ void ofApp::keyPressed(int key){
     // 2 : カラー２
     // 3 : カラー３
     // 4 : カラー４
+    // 5 : カラー５
     // delete, backspace : 頂点をひとつ消す
     switch(key){
         case 's'://screenshot
