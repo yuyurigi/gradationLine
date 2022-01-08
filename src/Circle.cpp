@@ -15,7 +15,7 @@ void Circle::setup(int _centerX, int _centerY, int _maxWidth){
 //--------------------------------------------------------------
 void Circle::update(){
     initTime += 1;
-    auto duration = 500;
+    auto duration = 1000;
     auto endTime = initTime + duration;
     auto now = ofGetElapsedTimef();
     radius = initTime > duration ? maxWidth: easeOutExpo(initTime, 0, maxWidth, duration);
