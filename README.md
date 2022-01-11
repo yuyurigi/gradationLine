@@ -9,8 +9,8 @@ r : Reset parameters
 1 : color scheme 1  
 2 : color scheme 2  
 3 : color scheme 3  
-4 : color scheme 4
-5 : color scheme 5
+4 : color scheme 4  
+5 : color scheme 5  
 delete, backspace : erase one vertex  
 
 -mousePressed  
